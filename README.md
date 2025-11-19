@@ -15,7 +15,6 @@ This analysis is built in **Power BI**, using DAX, data modeling, and interactiv
 - Format: CSV
 - Records: 1,470 employees
 - Target Column: **Attrition (Yes/No)**
-
 ---
 
 ## Objectives
@@ -35,12 +34,11 @@ This analysis is built in **Power BI**, using DAX, data modeling, and interactiv
 
 ---
 
-## Dashboard Features
 
 ## DashBoard Image
 <img width="1919" height="1011" alt="Screenshot 2025-11-19 142632" src="https://github.com/user-attachments/assets/02f4fe60-e56f-4bfd-a6fa-e3642e0cf4db" />
 
-
+## Dashboard Features
 
 ### **KPIs**
 - Total Employees    
@@ -70,3 +68,25 @@ SWITCH(
     Employees[MonthlyIncome] < 10000, "Medium",
     "High"
 )
+
+
+---
+
+##  Insights Summary
+- Employees aged **20–35** show the highest attrition.
+- **OverTime = Yes** employees leave at nearly **3× higher rate**.
+- **Low salary** employees (below 3K–7K) have major churn.
+- Sales Representatives and Lab Technicians have highest attrition.
+- Low **Job Satisfaction** strongly correlates with attrition.
+
+---
+
+##  Recommendations
+- Improve **work-life balance** and reduce overtime burden.
+- Review **compensation structure** for low-income bands.
+- Conduct role-specific **retention programs**, especially for Sales.
+- Improve employee engagement & satisfaction initiatives.
+
+---
+**Name:** Biswajit Das  
+**Role:** Data Analyst  
