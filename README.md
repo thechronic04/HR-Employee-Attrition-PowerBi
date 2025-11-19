@@ -37,6 +37,11 @@ This analysis is built in **Power BI**, using DAX, data modeling, and interactiv
 
 ## Dashboard Features
 
+## DashBoard Image
+<img width="1919" height="1011" alt="Screenshot 2025-11-19 142632" src="https://github.com/user-attachments/assets/02f4fe60-e56f-4bfd-a6fa-e3642e0cf4db" />
+
+
+
 ### **KPIs**
 - Total Employees    
 - Attrition Rate (%)  
