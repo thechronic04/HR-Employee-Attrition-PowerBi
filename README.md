@@ -25,7 +25,7 @@ This analysis is built in **Power BI**, using DAX, data modeling, and interactiv
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - **Power BI Desktop**
 - **DAX (Data Analysis Expressions)**
 - **Power Query**
