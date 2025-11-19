@@ -56,5 +56,12 @@ This analysis is built in **Power BI**, using DAX, data modeling, and interactiv
 - Marital Status  
 ---
 
-## 🧮 DAX Measures Used
+##  DAX Measures Used
 
+Income Band =
+SWITCH(
+    TRUE(),
+    Employees[MonthlyIncome] < 5000, "Low",
+    Employees[MonthlyIncome] < 10000, "Medium",
+    "High"
+)
